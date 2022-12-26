@@ -1,0 +1,19 @@
+{
+    "posts": [
+          {
+            "name":"salam",
+            "price":"2.1"
+          },
+          {
+            "name":"ewfwe",
+            "price":"2.5"
+          }
+        ],
+     "comments": [
+          {
+            "name":"hello",
+            "price":"3.1"
+          }
+        ]
+}
+    
